@@ -55,3 +55,17 @@ The complete Python implementation is maintained in a private repository. Techni
 ## Scope and Limitations
 
 This is an analytical research and portfolio demonstration, not investment advice or a production investment platform. Institutional concentration constraints, additional statistical diagnostics, market stress integration, production model monitoring, and deployment remain future work.
+
+## Documentación del proyecto
+
+**Presentación técnica y resultados cuantitativos**
+
+Consulta el documento de Quant Portfolio Lab, que incluye modelos financieros, optimización de carteras, simulación de riesgos y validación.
+
+[Ver documento de Quant Portfolio Lab](presentacion/Quant%20Portfolio%20Lab%20_%20Reporte.pdf)
+
+## Validación automatizada
+
+El proyecto incorpora GitHub Actions y un CI Dashboard con seis pruebas aprobadas, cero fallas y cero errores, utilizando datos sintéticos.
+
+El código fuente completo se conserva en un repositorio privado y su revisión puede solicitarse mediante contacto profesional.
